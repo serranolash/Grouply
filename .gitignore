@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+.vercel/
+npm-debug.log*
+yarn-error.log*
+pnpm-lock.yaml
+.pnpm-store/
+.DS_Store
+.vscode/
+
